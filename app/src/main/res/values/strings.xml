@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Firebase Test</string>
+    <string name="title_home">upload</string>
+    <string name="title_dashboard">view</string>
+    <string name="title_notifications">search</string>
+
+    <array name="type">
+        <item>Administrator</item>
+        <item>Member</item>
+    </array>
+</resources>
